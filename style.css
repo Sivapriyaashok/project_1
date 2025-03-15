@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    background-color: indigo;
+    width: 100%;
+    height: auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.b1 {
+    color: aliceblue;
+}
+
+li {
+    color: navy;
+    text-align: justify;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+}
+
+nav a:hover {
+    background-color: #17094f;
+}
+
+.d1 p {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.d2 a {
+    color: white;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.d3 i {
+    color: white;
+    padding: 5px;
+}
+
+footer {
+    background-color: indigo;
+    max-width: 100%;
+}
